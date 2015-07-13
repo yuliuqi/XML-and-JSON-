@@ -54,3 +54,4 @@ XML有明显的优势，毕竟人类的语言更贴近这样的说明结构。JS
 
 1. 没有XML格式这么推广的深入人心和使用广泛，没有XML那么通用性
 2. JSON格式目前在Web Service中推广还属于初级阶段
+引自：http://www.lingdublog.com/134.html
